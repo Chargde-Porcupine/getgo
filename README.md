@@ -1,6 +1,6 @@
 # getgo
 
-Simple command line tool that will download the latest version of Go.
+Simple command line tool that will download the latest version of Go...
 
 It may seem a little chicken and egg for a tool written in Go to be used to download Go.
 However due to the statically compiled nature of Go there is no dependency on the Go language package to run this tool.
